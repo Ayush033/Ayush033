@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there 👋
+
+
+🛠️ **Tools I Use:**
+<br/><br/>
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwindcss-black?style=for-the-badge&logo=tailwindcss&logoColor=1572B6)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
+![C/C++](https://img.shields.io/badge/-C%2FC++-black?style=for-the-badge&logo=c%2B%2B)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayush033&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
+  
+</p>
+
+<p>
+  
+  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayush033&theme=dracula" alt="rubiin"/>
+ 
+</p>
+
