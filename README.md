@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
 ![C/C++](https://img.shields.io/badge/-C%2FC++-black?style=for-the-badge&logo=c%2B%2B)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
+
 
 
 📈 **My GitHub Stats:**
